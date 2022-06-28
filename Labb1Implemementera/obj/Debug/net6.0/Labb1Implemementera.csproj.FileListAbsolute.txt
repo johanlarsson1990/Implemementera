@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\bin\Debug\net6.0\Labb1Implemementera.exe
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\bin\Debug\net6.0\Labb1Implemementera.deps.json
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\bin\Debug\net6.0\Labb1Implemementera.runtimeconfig.json
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\bin\Debug\net6.0\Labb1Implemementera.dll
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\bin\Debug\net6.0\Labb1Implemementera.pdb
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.AssemblyInfo.cs
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.dll
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\refint\Labb1Implemementera.dll
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.pdb
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\Labb1Implemementera.genruntimeconfig.cache
+C:\Users\johan\source\repos\Implemementera\Labb1Implemementera\obj\Debug\net6.0\ref\Labb1Implemementera.dll
